@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💼 I currently work as a Machine Learning Platform Engineer in Avidbots
+- 🧑‍💼 I currently work as a Machine Learning Platform Engineer at Avidbots
 - 💬 Ask me about board games, and expect to have a very long discussion!
 - 📫 You may reach me by mail at: john.ch.fr@gmail.com
 - 😄 Pronouns: he/him
