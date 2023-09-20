@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on solving hard problems on Leetcode
-- 🌱 I’m currently learning [Formal Algorithms for Transformers](https://arxiv.org/abs/2207.09238) from DeepMind
+- 🧑‍💼 I currently work as a Machine Learning Platform Engineer in Avidbots
 - 💬 Ask me about board games, and expect to have a very long discussion!
 - 📫 You may reach me by mail at: john.ch.fr@gmail.com
 - 😄 Pronouns: he/him
