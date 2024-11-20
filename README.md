@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🧑‍💼 I am a traveler, explorer, learner, machine learning engineer, and in-progress...
-- 💬 Tell me about your favorite board game, or your favorite philosopher!
+- ❓ Did you know that LLMs may be fundamentally faking their reasoning ability? [\[1\]](https://arxiv.org/abs/2410.05229)
+- 💬 What might be the value that you consider to be the most important in a person?
 - 📫 You may reach me by mail at: john.ch.fr@gmail.com
-- 😄 Pronouns: he/him
 
 <!--
 **johncf/johncf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
